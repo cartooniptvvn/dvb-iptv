@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml
-#EXTINF:-1 tvg-id="thainguyen" group-title="Kênh TH TN" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2e/%C4%90N1-NRTV_logo.png/revision/latest?cb=20250731032514&path-prefix=vi",Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title="Kênh TH TN" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/pc/logo.png?v=2.620250701080027",Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
